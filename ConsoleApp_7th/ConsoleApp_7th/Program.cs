@@ -30,7 +30,7 @@ namespace ConsoleApp_7th
             Console.WriteLine();
 
             Publication[] pubs = new Publication[3]
-            {
+            { 
                 new Publication("Celebration of Displine", "Richard", 1978),
                 new Publication("Celebration of 222", "Richard222", 1972),
                 new Publication("Celebration of 333", "Richard333", 1973)
